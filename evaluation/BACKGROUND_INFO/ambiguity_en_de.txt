@@ -1,0 +1,96 @@
+{"topic": "communication and navigation", "named_entities": [{"entity": "GPS", "definition": "Global Positioning System", "translation": "Globales Positionierungssystem"}]}
+{"topic": "IT", "named_entities": [{"entity": "GPS", "definition": "Group Policy Search", "translation": "Gruppenrichtliniensuche"}]}
+{"topic": "law enforcement", "named_entities": [{"entity": "AML ", "definition": "anti-money laundering", "translation": "Anti-Geldwäsche"}]}
+{"topic": "medicine", "named_entities": [{"entity": "AML ", "definition": "Acute myeloid leukemia", "translation": "Akute myeloische Leukämie"}]}
+{"topic": "marketing ", "named_entities": [{"entity": "CPA ", "definition": "Cost Per Acquisition", "translation": "Kosten pro Akquisition"}]}
+{"topic": "general", "named_entities": [{"entity": "AWS", "definition": "Amazon Web Services", "translation": "Amazon Web Services"}]}
+{"topic": "general", "named_entities": [{"entity": "AWS", "definition": "American Welding Society", "translation": "Amerikanische Schweißgesellschaft"}]}
+{"topic": "medicine, palsy", "named_entities": [{"entity": "CPA ", "definition": "Cerebral Palsy Alliance", "translation": "Allianz für Zerebralparese"}]}
+{"topic": "medicine, psychiatry", "named_entities": [{"entity": "CPA ", "definition": "Canadian Psychiatric Association", "translation": "Kanadische Psychiatrische Vereinigung"}]}
+{"topic": "legislation, consumer rights", "named_entities": [{"entity": "CPA ", "definition": "Consumer Protection Act", "translation": "Verbraucherschutzgesetz"}]}
+{"topic": "oil and gas", "named_entities": [{"entity": "kick", "definition": "the rushing of rushing into the wellbore from the surrounding rock", "translation": "Kick"}]}
+{"topic": "sports", "named_entities": [{"entity": "kick", "definition": "physical strike using a leg", "translation": "Tritt"}]}
+{"topic": "geology, litosphere, biology", "named_entities": [{"entity": "reservoir", "definition": "a place where oil collects in geological formations", "translation": "Ölfeld"}]}
+{"topic": "biology, hydrosphere", "named_entities": [{"entity": "reservoir", "definition": "a large natural or artificial lake", "translation": "Gewässer"}]}
+{"topic": "finance", "named_entities": [{"entity": "ROI", "definition": "return on investment", "translation": "Kapitalrendite"}]}
+{"topic": "finance", "named_entities": [{"entity": "ROI", "definition": "return of interest", "translation": "Rendite der Zinsen"}]}
+{"topic": "technology", "named_entities": [{"entity": "API", "definition": "application programming interface", "translation": "Programmierschnittstelle"}]}
+{"topic": "technology", "named_entities": [{"entity": "API", "definition": "American Petroleum Institute", "translation": "Amerikanisches Erdölinstitut"}]}
+{"topic": "biology", "named_entities": [{"entity": "PCR", "definition": "polymerase chain reaction", "translation": "Polymerase Kettenreaktion"}]}
+{"topic": "biology", "named_entities": [{"entity": "PCR", "definition": "patient care report", "translation": "Patientenversorgungsbericht"}]}
+{"topic": "sports", "named_entities": [{"entity": "MVP", "definition": "most valuable player", "translation": "Wertvollster Spieler"}]}
+{"topic": "business", "named_entities": [{"entity": "MVP", "definition": "minimum viable product", "translation": "minimal funktionsfähiges Produkt"}]}
+{"topic": "academia", "named_entities": [{"entity": "SAT", "definition": "Scholastic Assessment Test", "translation": "Schulischer Einstufungstest"}]}
+{"topic": "academia", "named_entities": [{"entity": "SAT", "definition": "Standardized Achievement Test", "translation": "Standardisierter Leistungstest"}]}
+{"topic": "medicine", "named_entities": [{"entity": "PTSD", "definition": "Post-Traumatic Stress Disorder", "translation": "Posttraumatische Belastungsstörung"}]}
+{"topic": "medicine", "named_entities": [{"entity": "PTSD", "definition": "Posterior Tibial Slope Decrease", "translation": "Verringerung der Tibia-Neigung im hinteren Bereich"}]}
+{"topic": "gaming", "named_entities": [{"entity": "NPC", "definition": "Non-Player Character", "translation": "Nicht-Spieler-Charakter"}]}
+{"topic": "gaming", "named_entities": [{"entity": "NPC", "definition": "National Productivity Council", "translation": "Nationaler Produktivitätsrat"}]}
+{"topic": "automotive", "named_entities": [{"entity": "ABS", "definition": "Anti-lock Braking System", "translation": "Antiblockiersystem"}]}
+{"topic": "chemistry", "named_entities": [{"entity": "ABS", "definition": "Acrylonitrile butadiene styrene", "translation": "Acrylnitril-Butadien-Styrol"}]}
+{"topic": "government", "named_entities": [{"entity": "ABS", "definition": "American Bureau of Standards", "translation": "Amerikanisches Büro für Normen"}]}
+{"topic": "defense", "named_entities": [{"entity": "APC", "definition": "armored personnel carrier", "translation": "gepanzerter Mannschaftstransportwagen"}]}
+{"topic": "economics", "named_entities": [{"entity": "PPP", "definition": "purchasing power parity", "translation": "Kaufkraftparität"}]}
+{"topic": "business", "named_entities": [{"entity": "PPP", "definition": "public-private partnership", "translation": "Öffentlich-private Partnerschaft"}]}
+{"topic": "medicine", "named_entities": [{"entity": "CAD", "definition": "coronary artery disease", "translation": "koronare Herzkrankheit"}]}
+{"topic": "technology", "named_entities": [{"entity": "CAD", "definition": "computer-aided design", "translation": "computergestütztes Design"}]}
+{"topic": "business", "named_entities": [{"entity": "CPU", "definition": "cost per unit", "translation": "Kosten pro Einheit"}]}
+{"topic": "technology", "named_entities": [{"entity": "CPU", "definition": "central processing unit", "translation": "Zentraleinheit"}]}
+{"topic": "finance", "named_entities": [{"entity": "EPS", "definition": "earnings per share", "translation": "Gewinn je Aktie"}]}
+{"topic": "chemistry", "named_entities": [{"entity": "EPS", "definition": "expanded polystyrene", "translation": "expandiertes Polystyrol"}]}
+{"topic": "aerospace", "named_entities": [{"entity": "ESA", "definition": "European Space Agency", "translation": "Europäische Weltraumorganisation"}]}
+{"topic": "law", "named_entities": [{"entity": "ESA", "definition": "Endangered Species Act ", "translation": "Gesetz zum Schutz gefährdeter Arten"}]}
+{"topic": "manufacturing", "named_entities": [{"entity": "FAT", "definition": "factory acceptance testing", "translation": "Werksabnahmeprüfung"}]}
+{"topic": "technology", "named_entities": [{"entity": "FAT", "definition": "file allocation table", "translation": "Dateizuordnungstabelle"}]}
+{"topic": "economics", "named_entities": [{"entity": "GDP", "definition": "gross domestic product", "translation": "Bruttoinlandsprodukt"}]}
+{"topic": "pharmaceuticals", "named_entities": [{"entity": "GDP", "definition": "good documentation practice", "translation": "Gute Dokumentationspraxis"}]}
+{"topic": "technology", "named_entities": [{"entity": "ICU", "definition": "International Components for Unicode", "translation": "Internationale Komponenten für Unicode"}]}
+{"topic": "medicine", "named_entities": [{"entity": "ICU", "definition": "intensive care unit", "translation": "Intensivstation"}]}
+{"topic": "general", "named_entities": [{"entity": "IRA", "definition": "Irish Republican Army", "translation": "Irisch-Republikanische Armee"}]}
+{"topic": "finance", "named_entities": [{"entity": "IRA", "definition": "individual retirement account", "translation": "Individuelles Rentenkonto"}]}
+{"topic": "chemistry", "named_entities": [{"entity": "NGO", "definition": "nitrogen-doped graphene oxide", "translation": "Stickstoffdotiertes Graphenoxid"}]}
+{"topic": "politics", "named_entities": [{"entity": "NGO", "definition": "non-government organization", "translation": "Nichtregierungsorganisation"}]}
+{"topic": "medicine", "named_entities": [{"entity": "PET", "definition": "positron emission tomography", "translation": "Positronen-Emissions-Tomographie"}]}
+{"topic": "chemistry", "named_entities": [{"entity": "PET", "definition": "polyethylene terephthalate", "translation": "Polyethylenterephthalat"}]}
+{"topic": "chemistry", "named_entities": [{"entity": "PVC", "definition": "polyvinyl chloride", "translation": "Polyvinylchlorid"}]}
+{"topic": "medicine", "named_entities": [{"entity": "PVC", "definition": "premature ventricular contraction", "translation": "Vorzeitige ventrikuläre Kontraktion"}]}
+{"topic": "technology", "named_entities": [{"entity": "RPM", "definition": "revolutions per minute", "translation": "Umdrehungen pro Minute"}]}
+{"topic": "finance", "named_entities": [{"entity": "RPM", "definition": "risk and portfolio management", "translation": "Risiko- und Portfoliomanagement"}]}
+{"topic": "technology", "named_entities": [{"entity": "SLA", "definition": "stereolithography apparatus ", "translation": "Stereolithografieanlage"}]}
+{"topic": "business", "named_entities": [{"entity": "SLA", "definition": "service level agreement", "translation": "Service-Level-Agreement"}]}
+{"topic": "chemistry", "named_entities": [{"entity": "TNT", "definition": "trinitrotoluene", "translation": "Trinitrotoluol"}]}
+{"topic": "media", "named_entities": [{"entity": "TNT", "definition": "Turner Network Television", "translation": "Turner Network Television"}]}
+{"topic": "aerospace", "named_entities": [{"entity": "UFO", "definition": "unidentified flying object", "translation": "Unidentifiziertes Flugobjekt"}]}
+{"topic": "crypto", "named_entities": [{"entity": "UFO", "definition": "uniform fiscal object", "translation": "Einheitliches Finanzobjekt"}]}
+{"topic": "finance", "named_entities": [{"entity": "CD", "definition": "certificate of deposit", "translation": "Einlagenzertifikat"}]}
+{"topic": "technology", "named_entities": [{"entity": "CD", "definition": "compact disc", "translation": "Kompaktscheibe"}]}
+{"topic": "technology", "named_entities": [{"entity": "IDE", "definition": "integrated development environment", "translation": "Integrierte Entwicklungsumgebung"}]}
+{"topic": "medicine", "named_entities": [{"entity": "IDE", "definition": "intradermal electrolysis", "translation": "Intradermale Elektrolyse"}]}
+{"topic": "defense", "named_entities": [{"entity": "MOS", "definition": "military occupational specialty", "translation": "Militärische Berufsspezialität"}]}
+{"topic": "technology", "named_entities": [{"entity": "MOS", "definition": "metal oxide semiconductor", "translation": "Metall-Oxid-Halbleiter"}]}
+{"topic": "technology", "named_entities": [{"entity": "OEM", "definition": "original equipment manufacturer", "translation": "Originalausrüstungshersteller"}]}
+{"topic": "business", "named_entities": [{"entity": "OEM", "definition": "operational expenditure management", "translation": "Betriebskostenmanagement"}]}
+{"topic": "technology", "named_entities": [{"entity": "UDP", "definition": "user Datagram protocol", "translation": "Benutzerdatagrammprotokoll"}]}
+{"topic": "chemistry", "named_entities": [{"entity": "UDP", "definition": "uridine diphosphate", "translation": "Uridindiphosphat"}]}
+{"topic": "finance", "named_entities": [{"entity": "VAT", "definition": "value added tax", "translation": "Mehrwertsteuer"}]}
+{"topic": "medicine", "named_entities": [{"entity": "VAT", "definition": "visual acuity testing", "translation": "Sehschärfetest"}]}
+{"topic": "law", "named_entities": [{"entity": "ADA", "definition": "Americans with Disabilities Act", "translation": "Gesetz für Amerikaner mit Behinderungen"}]}
+{"topic": "general", "named_entities": [{"entity": "ADA", "definition": "American Dental Association", "translation": "Amerikanische Zahnärztevereinigung"}]}
+{"topic": "general", "named_entities": [{"entity": "CCTV", "definition": "closed-circuit television", "translation": "Überwachungsfernsehen"}]}
+{"topic": "general", "named_entities": [{"entity": "CCTV", "definition": "Chinese Central Television", "translation": "Chinesisches Zentralfernsehen"}]}
+{"topic": "technology", "named_entities": [{"entity": "ISDN", "definition": "integrated services digital network", "translation": "Integriertes Dienste-Digitalnetz"}]}
+{"topic": "chemistry", "named_entities": [{"entity": "ISDN", "definition": "isosorbide dinitrate", "translation": "Isosorbiddinitrat"}]}
+{"topic": "technology", "named_entities": [{"entity": "QAM", "definition": "quadrature amplitude modulation", "translation": "Quadraturamplitudenmodulation"}]}
+{"topic": "business", "named_entities": [{"entity": "QAM", "definition": "quality assurance management", "translation": "Qualitätsmanagement"}]}
+{"topic": "general", "named_entities": [{"entity": "SME", "definition": "subject matter expert", "translation": "Fachexperte"}]}
+{"topic": "business", "named_entities": [{"entity": "SME", "definition": "small and medium enterprise", "translation": "Kleine und mittlere Unternehmen"}]}
+{"topic": "finance", "named_entities": [{"entity": "TDR", "definition": "troubled debt restructuring", "translation": "Umschuldung problematischer Schulden"}]}
+{"topic": "technology", "named_entities": [{"entity": "TDR", "definition": "time domain reflectometry", "translation": "Zeitbereichsreflektometrie"}]}
+{"topic": "technology", "named_entities": [{"entity": "DOS", "definition": "disk operating system", "translation": "Diskettenbetriebssystem"}]}
+{"topic": "security", "named_entities": [{"entity": "DOS", "definition": "denial of service", "translation": "Dienstverweigerung"}]}
+{"topic": "chemistry", "named_entities": [{"entity": "EPA", "definition": "eicosapentaenoic acid", "translation": "Eicosapentaensäure"}]}
+{"topic": "general", "named_entities": [{"entity": "EPA", "definition": "Environmental Protection Agency", "translation": "Umweltschutzbehörde"}]}
+{"topic": "general", "named_entities": [{"entity": "APA", "definition": "Australian Publishers Association", "translation": "Australischer Verlegerverband"}]}
+{"topic": "general", "named_entities": [{"entity": "APA", "definition": "American Psychological Association", "translation": "Amerikanische Psychologenvereinigung"}]}
+{"topic": "defense", "named_entities": [{"entity": "IFV", "definition": "infantry fighting vehicle", "translation": "Schützenpanzer"}]}
+{"topic": "physics", "named_entities": [{"entity": "IFV", "definition": "interfacial viscosity", "translation": "Grenzflächenviskosität"}]}

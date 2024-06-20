@@ -1,0 +1,102 @@
+The most important question these days is how can we speed up the solutions to the climate crisis?
+I'm convinced we are going to solve the climate crisis, we've got this, but the question remains, will we solve it in time?
+I'll give you the the shortest definition of the problem: if I was going to give a one-slide slide show, it would be this slide.
+That's the troposphere, the lowest part of the atmosphere, and you already know why it's blue: that's the oxygen that refracts the blue light.
+And if you could drive a car at highway speed straight up in the air, you'd get to the top of that blue line in about five to seven minutes.
+That's what we're using as an open sewer, that's the problem.
+And it's causing a lot of second and third order consequences.
+And we saw some of them in the northern-tier cities, including Detroit.
+This one's from New York City, all the fires in Canada.
+And we have gotten used to the fact that the world suffers deep droughts and huge rain bombs and downpours and floods simultaneously.
+The really ingenious new gravity-measuring satellite has given us, for the first time, the opportunity to see how this plays out worldwide.
+We get these huge surpluses of water, the rain bombs and the drought simultaneously, and as you can see, the amplitude is increasing.
+And at both ends of our planet right now, we're seeing signs of distress.
+Of course, you know, I've often said, every night on the TV news is like a nature hike through the Book of Revelation.
+And just today, big flooding in Montpelier, Vermont, in southern Japan, in India; and I haven't done a complete scan, but every single day, it's like that.
+But in Antarctica, some scientists who are normally pretty levelheaded are getting a little bit freaked out, I would say, is a fair definition, about the lowest level ever, at this point in the year, of sea ice.
+And at the other pole, in the North Atlantic, we're seeing literally off-the-charts temperatures.
+So obviously, the crisis has to be addressed.
+And the good news is, as others have often said, we are seeing tremendous progress.
+And it starts with the Inflation Reduction Act here in the United States.
+President Biden, the Congress, they have passed the best, biggest climate legislation in all of history, and it's said to be 369 billion.
+But the heavy lifting is done by tax credits, and most of them are open-ended, and the early applications already show it's going to be well over a trillion dollars, maybe 1.2 trillion.
+So this is really good news.
+And one month after that passed, Australia changed its government and started changing its laws, and it's now a pro-climate nation.
+A month after that, Brazil did the same thing, new president, new policies protecting the Amazon.
+And throughout, the European Union has resisted the efforts of Russia to blackmail it into supporting its sadistic and cruel invasion of Ukraine.
+And there are other signs of success as well.
+China's reached its renewables target five years ahead of time.
+It's still building a lot of coal, but only 50 percent capacity utilization.
+So there is lots of good news, but still, in spite of this progress, the emissions are still going up, and the crisis is still getting worse faster than we are deploying the solutions.
+So maybe it's time to look at the obstacles that are standing in our way.
+I'm going to focus on two of them this afternoon.
+First of all, the unrelenting opposition from the fossil fuel industry.
+A lot of people think they're on side and trying to help.
+But let me tell you, and the activists will all tell you this.
+Every piece of legislation, whether it's at the municipal level, the regional or provincial level, the national level or the international level, they're in there with their lobbyists and with their fixers and with their revolving-door colleagues doing everything they can to slow down progress.
+So speeding up progress means doing something about this.
+They have used fraud on a massive scale.
+And they’ve used their legacy political and economic networks, lavishly funded, to capture the policy-making process in too many countries around the world.
+And the Secretary General said the fossil fuel industry is the polluted heart of the climate crisis.
+Now, that's not to say that the men and women who've worked in fossil fuel for the last century and a half are not due our gratitude.
+But for decades now, the companies have had the evidence. They know the truth, and they consciously decided to lie to publics all around the world in order to calm down the political momentum for doing something about it so they can make more money.
+And now they have brazenly seized control of the COP process, especially this year's COP in Dubai in the United Arab Emirates.
+And concern has been building about this for quite some time.
+I remember when there were so many fossil fuel delegates in Madrid, but by the time we got to Glasgow a year and a half ago, the delegates from the fossil fuel companies made up a larger group than the largest national delegation.
+We started OpenAI seven years ago because we felt like something really interesting was happening in AI and we wanted to help steer it in a positive direction.
+It's honestly just really amazing to see how far this whole field has come since then.
+And it's really gratifying to hear from people like Raymond who are using the technology we are building, and others, for so many wonderful things.
+We hear from people who are excited, we hear from people who are concerned, we hear from people who feel both those emotions at once.
+And honestly, that's how we feel.
+Now it's saved for later, and let me show you what it's like to use that information and to integrate with other applications too.
+So the first thing I'm going to show you is what it's like to build a tool for an AI rather than building it for a human.
+Now you get all of the, sort of, ideation and creative back-and-forth and taking care of the details for you that you get out of ChatGPT.
+And that is something that really expands the power of what it can do on your behalf in terms of carrying out your intent.
+But you can see that ChatGPT is selecting all these different tools without me having to tell it explicitly which ones to use in any situation.
+And as I said, this is a live demo, so sometimes the unexpected will happen to us.
+But let's take a look at the Instacart shopping list while we're at it.
+And the thing that's really interesting is that the traditional UI is still very valuable, right?
+If you look at this, you still can click through it and sort of modify the actual quantities.
+And that's something that I think shows that they're not going away, traditional UIs.
+And now we have a tweet that's been drafted for our review, which is also a very important thing.
+We can click run, and there we are, we’re the manager, we’re able to inspect, we're able to change the work of the AI if we want to.
+I spent my whole career in the nonprofit sector. Street outreach, program management, fundraising, grant making, public policy, you name it, I've done it.
+And I'm a really positive person, so it's actually difficult to say this. But the way we do philanthropy right now, the way we've done it for decades, is broken.
+In my early 20s, I was a frontline social worker in New York City, working with people living with HIV.
+Many of them had multiple chronic illnesses, and they were underhoused.
+So I'd spend my days, and even some nights, with them, running around the city to doctor's appointments and housing agencies.
+The day-to-day work was hard. But the hardest part was we never had had enough funding to do the work.
+On Friday mornings, I'd go into the office to write up my case notes for the week and I'd speed past front reception, not looking at the mailboxes full of blue slips.
+Each blue letter marked another colleague let go because of our funding crisis.
+Within one month, I’d lost half my team, and my caseload ballooned from 30 to over 100.
+And this is the reality for so many nonprofits.
+And they're filling out so much paperwork that they hardly have any time to actually support communities, which is literally the thing that they're funded to do.
+After years of doing amazing work, improving every single metric, we'd hear things like, I'm sorry, our major donor has switched direction.
+Instead of being on the side that's asking for money, what if I went to the side that was giving money?
+So off I went into the world of philanthropy only to discover that trillions of dollars are in donor-advised funds and private foundations just waiting to be donated.
+I'd hear a donor publicly support a cause like homelessness.
+Almost 70 percent of donations are directed by the top one percent of donors.
+And they choose causes that resonate with their lives, like their university or the arts.
+And look, I know that donors have good intentions, I really do.
+I wanted to shift the power dynamic from a top-down approach to a community-led model, where nonprofits and donors really work together.
+We were inspired by a radically different type of philanthropy, Black philanthropy.
+It's the formal and informal giving that happens in Black communities around the world.
+In some cases, it's the kind of giving that you don't get a tax receipt for.
+This practice has existed across the African diaspora since the 1700s.
+And the cool thing is this exists outside of the African diaspora, too.
+And communities turn to each other and use this kind of collective approach when we face exclusion and systemic racism in the financial industry.
+For example, Black people are rejected business loans and mortgages at twice the rate of the general population.
+And so when we face that exclusion, we turn to our communities and are creative in our solution-making.
+She gives generously to our communities because they gave generously to her.
+Black philanthropy is rooted in a concept called Ubuntu.
+It's an African philosophy widely understood as humanity towards others.
+And in order to do that, we need to make two practical shifts: who is making funding decisions, and how those decisions are made?
+We received 99 eligible applications from Black groups working in everything from diabetes awareness to inner-city farming and after school programming.
+Imagine for a second that your job was made redundant by an advanced piece of software that could do the work at the same level of quality for free.
+But you happen to have three years left on a guaranteed contract, and so your employer gives you two options.
+Either you can keep getting paid as per your contract, but stay home as the software does your job, or you can keep going in and doing the work that could have been automated for the same money.
+This is the scenario about a hypothetical medical scribe named Jeff that we gave to our research participants.
+For half the people in the study, the story ends with Jeff choosing to go home, and for the other half it ends with him choosing to keep working.
+So in another study, we asked people about two widget makers.
+Work norms, of course, differ around the world, but we replicated our original American result in South Korea, which is known by the numbers to be one of the hardest-working countries in the OECD, and in France, which is known for other strengths.
+And it looks like this is something broader than, say, the Protestant work ethic. Even the Hadza people, hunter-gatherers in Tanzania, show something like it.
