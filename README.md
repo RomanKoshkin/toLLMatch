@@ -13,7 +13,7 @@ The advent of transformers has fueled progress in machine translation. More rece
 
 ## 1 Set up the environment and install dependencies
 
-We tested this code with CUDA 12.2 and python 3.10. 🙏**Please**🙏 open an issue if something breaks or if you can't make it work on your system.
+We tested this code with CUDA 12.2 and python 3.10.14. 🙏**Please**🙏 open an issue if something breaks or if you can't make it work on your system.
 
 0) **Patch the paths to various datafiles:**
 
@@ -35,7 +35,7 @@ the the VLLM and ASR servers, use `localhost` if you run them on the same machin
 2) **Install essential dependencies (preferably into a clean environment):**
 
 ```bash
-conda create -n tollmatch python=3.10
+conda create -n tollmatch python=3.10.14
 conda activate tollmatch
 cd scripts
 sh install_requirements.sh
@@ -99,7 +99,7 @@ To evaluate on the `TED-TST-2024` on English-German simultaneous translation, do
 
 ```bash
 cd scripts
-bash EVAL_ENDE_TED2024.sh
+bash EVAL_ENDE_S2TT_TED2024.sh
 ```
 
 Modify the paths in `EVAL_ENDE_TED2024.sh` if you want to evaluate the method on other data, language pairs, LLM size, ASR model size, in a different latency regime, or on a specified subset of the data, adjust the corresponding parameters in the script.
