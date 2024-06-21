@@ -1,6 +1,6 @@
 # toLLMatch🔪: Context-aware LLM-based simultaneous translation
 
-**Paper**: https://arxiv.org/pdf/2402.04636.pdf
+**Paper**: https://arxiv.org/abs/2406.13476
 
 ![asdf](assets/output.gif)
 
@@ -157,11 +157,11 @@ Please clone this [repo](https://github.com/RomanKoshkin/transllama) separately,
 # Citation
 
 ```bash
-@misc{koshkin2024transllama,
-      title={TransLLaMa: LLM-based Simultaneous Translation System}, 
+@misc{koshkin2024llms,
+      title={LLMs Are Zero-Shot Context-Aware Simultaneous Translators}, 
       author={Roman Koshkin and Katsuhito Sudoh and Satoshi Nakamura},
       year={2024},
-      eprint={2402.04636},
+      eprint={2406.13476},
       archivePrefix={arXiv},
       primaryClass={id='cs.CL' full_name='Computation and Language' is_active=True alt_name='cmp-lg' in_archive='cs' is_general=False description='Covers natural language processing. Roughly includes material in ACM Subject Class I.2.7. Note that work on artificial languages (programming languages, logics, formal systems) that does not explicitly address natural-language issues broadly construed (natural-language processing, computational linguistics, speech, text retrieval, etc.) is not appropriate for this area.'}
 }
