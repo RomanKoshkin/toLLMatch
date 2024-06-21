@@ -22,3 +22,4 @@ pip intall flax==0.8.4
 pip install numpy==1.23.5
 pip install -U jax[cuda12]==0.4.28  -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
 pip install -U jaxlib==0.4.28+cuda12.cudnn89  -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
+pip install flash-attn==2.5.8
