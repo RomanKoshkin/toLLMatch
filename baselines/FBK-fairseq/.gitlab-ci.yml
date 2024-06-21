@@ -1,0 +1,58 @@
+image: python:3.8
+
+variables:
+  PIP_CACHE_DIR: "$CI_PROJECT_DIR/.cache/pip"
+
+cache:
+  paths:
+    - .cache/pip
+    - venv/
+
+
+stages:
+  - test
+  - test_simul_v1.0.2
+  - test_simul_v1.1.0
+
+before_script:
+  - apt-get update && apt-get --yes install libsndfile1
+  - python --version  # For debugging
+  - pip install virtualenv
+  - virtualenv venv
+  - source venv/bin/activate
+  - pip install -e .
+  - pip install -r speech_requirements.txt
+  - curdir=$(pwd) && cd ..
+  - rm -rf SimulEval
+  - git clone https://github.com/facebookresearch/SimulEval.git/
+  - cd SimulEval
+  - pip install -e .
+  - cd $curdir
+
+test:
+  stage: test
+  script:
+    - python -m unittest discover -s fbk_uts -p "*.py"
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "merge_request_event" || $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
+
+test_simul_v1.0.2:
+  stage: test_simul_v1.0.2
+  script:
+    - cd ../SimulEval
+    - git checkout v1.0.2
+    - cd $curdir
+    - python -m unittest discover -s fbk_simul_uts/v1_0 -p "*.py"
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "merge_request_event" || $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
+
+test_simul_v1.1.0:
+  stage: test_simul_v1.1.0
+  script:
+    - cd ../SimulEval
+    # No version/tag is available for SimulEval 1.1.0
+    - git checkout main
+    - cd $curdir
+    - python -m unittest discover -s fbk_simul_uts/v1_1 -p "*.py"
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "merge_request_event" || $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'

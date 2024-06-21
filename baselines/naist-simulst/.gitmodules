@@ -1,0 +1,10 @@
+[submodule "SimulEval"]
+	path = SimulEval
+	url = git@github.com:ahclab/SimulEval.git
+	branch = main
+	ignore = dirty
+[submodule "fairseq"]
+	path = fairseq
+	url = git@github.com:ahclab/fairseq-iwslt23.git
+	branch = main
+	ignore = dirty

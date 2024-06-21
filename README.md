@@ -136,6 +136,8 @@ bash RUN_EVAL_ted_tst_2023.sh
 
 - [FBK](https://github.com/hlt-mt/FBK-fairseq/)
 
+Follow the instruction in the `baselines/FBK-fairseq/fbk_works/EDATT_SIMULST_AGENT_ACL2023.md`, download `checkpoint_avg7.pt` and put it in `baselines/FBK-fairseq/DATA_ROOT/`.
+
 ```bash
 cd baselines/FBK-fairseq
 bash RUN_EVAL_ted2024.sh

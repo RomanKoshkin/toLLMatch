@@ -1,0 +1,36 @@
+name: iwslt22
+
+channels:
+- pytorch
+- conda-forge
+- defaults
+
+dependencies:
+- pip=22.0.3
+- python=3.7.10
+- numpy=1.21.2
+- pandas=1.3.5
+- pyyaml=6.0
+- pytorch=1.11.0
+- torchaudio=0.11.0
+- cudatoolkit=11.5
+- editdistance=0.6.0
+- sacrebleu=1.4.13
+- fairscale=0.4.3
+- sentencepiece=0.1.95
+- wandb=0.12.7
+- tensorboardx=2.5
+- pysoundfile=0.10.3.post1
+- datasets=2.0.0
+- nltk=3.6.7
+- num2words=0.5.10
+- numpy=1.21.2
+- pandas=1.3.5
+- pyyaml=6.0
+- sacremoses=0.0.49
+- tqdm=4.62.3
+- transformers=4.16.2
+
+- pip:
+  - wavaugment==0.2
+  - jiwer==2.3.0

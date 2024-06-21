@@ -1,0 +1,44 @@
+{
+    "configurations": [       
+        {
+            "name": "seamless_agent_buggy",
+            "justMyCode": false,
+            "type": "python",
+            "request": "launch",
+            "program": "simuleval",
+            "args": [
+                "--agent", "/home/roman/CODE/gremlin/baselines/seamless-streaming/seamless_agent.py",
+                "--source", "/home/roman/CODE/gremlin/evaluation/SOURCES/src_ted_new_tst_100.ru",
+                "--target", "/home/roman/CODE/gremlin/evaluation/OFFLINE_TARGETS/tgt_ted_new_tst_100.ru",
+                "--task", "s2tt",
+                "--output", "/home/roman/CODE/gremlin/baselines/seamless-streaming/out",
+                "--start-index", "0",
+                "--end-index", "2",
+                "--latency-metrics", "LAAL", "AL",
+                "--quality-metrics", "BLEU",
+                "--source-segment-size", "320",
+                "--device", "cuda:0",
+                "--tgt-lang", "rus"
+            ],
+            "console": "integratedTerminal",
+            "cwd": "${fileDirname}"
+        },
+        {
+            "name": "streaming_evaluate",
+            "justMyCode": false,
+            "type": "python",
+            "request": "launch",
+            "program": "streaming_evaluate",
+            "args": [
+                "--task", "s2tt",
+                "--data-file", "/home/roman/CODE/gremlin/baselines/seamless-streaming/new_ted_ru.tsv",
+                "--audio-root-dir", "/home/roman/CODE/gremlin/raw_datasets/new_ted_ru",
+                "--output", "/home/roman/CODE/gremlin/baselines/seamless-streaming/out",
+                "--tgt-lang", "eng",
+                "--source-segment-size", "320"
+            ],
+            "console": "integratedTerminal",
+            "cwd": "${fileDirname}"
+        }
+    ]
+}

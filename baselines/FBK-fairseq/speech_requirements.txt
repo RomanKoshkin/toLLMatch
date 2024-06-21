@@ -1,0 +1,8 @@
+torchaudio
+ctc_segmentation
+srt
+praat-parselmouth
+pangolinn
+soundfile
+pandas
+sentencepiece

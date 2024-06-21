@@ -1,0 +1,26 @@
+bpe_tokenizer:
+  bpe: sentencepiece
+  sentencepiece_model: spm_unigram8000_st_translation_src.model
+bpe_tokenizer_src:
+  bpe: sentencepiece
+  sentencepiece_model: spm_unigram.en.model
+global_cmvn:
+  stats_npz_path: DATA_ROOT/gcmvn.npz
+input_channels: 1
+input_feat_per_channel: 80
+sampling_alpha: 1.0
+specaugment:
+  freq_mask_F: 27
+  freq_mask_N: 1
+  time_mask_N: 1
+  time_mask_T: 100
+  time_mask_p: 1.0
+  time_wrap_W: 0
+transforms:
+  '*':
+    - global_cmvn
+  _train:
+    - global_cmvn
+    - specaugment
+vocab_filename: spm_unigram8000_st_translation_src.txt
+vocab_filename_src: spm_unigram.en.txt

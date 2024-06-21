@@ -1,0 +1,58 @@
+name: build
+
+on:
+  # Trigger the workflow on push to master or any pull request
+  push:
+    branches:
+      - master
+  pull_request:
+
+jobs:
+  build:
+
+    strategy:
+      max-parallel: 4
+      matrix:
+        platform: [ubuntu-latest]
+        python-version: [3.8]
+
+    runs-on: ${{ matrix.platform }}
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
+
+    - name: Conditionally install pytorch
+      if: matrix.platform == 'windows-latest'
+      run: pip3 install torch -f https://download.pytorch.org/whl/torch_stable.html
+
+    - name: Install locally
+      run: |
+        apt-get update && apt-get --yes install libsndfile1
+        python -m pip install --upgrade pip
+        git submodule update --init --recursive
+        python setup.py build_ext --inplace
+        python -m pip install --editable .
+        pip install -r speech_requirements.txt
+        curdir=$(pwd) && cd ..
+        git clone https://github.com/facebookresearch/SimulEval.git/
+        cd SimulEval
+        git checkout 844e4bf62cb4031b4d49247b9520a9966416eea3
+        pip install -e .
+        cd $curdir
+
+    - name: Lint with flake8
+      run: |
+        pip install flake8
+        # stop the build if there are Python syntax errors or undefined names
+        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics --extend-exclude fairseq/model_parallel/megatron
+        # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
+        flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics --extend-exclude fairseq/model_parallel/megatron
+
+    - name: Run tests
+      run: |
+          python -m unittest discover -s fbk_uts -p "*.py"

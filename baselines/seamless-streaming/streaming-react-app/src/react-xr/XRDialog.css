@@ -1,0 +1,19 @@
+.xr-dialog-button {
+  margin-bottom: 16px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.xr-dialog-container {
+  min-height: 200px;
+}
+
+.xr-dialog-text-center {
+  text-align: center;
+}
+
+.xr-dialog-canvas-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -27,7 +27,6 @@ evaluation/METRICS.json
 evaluation/S2T_METRICS.json
 evaluation/METRICS_dedupe.json
 evaluation/ASR_RESULTS/
-baselines
 
 */.ipynb_checkpoints/*
 .ipynb_checkpoints/*
@@ -43,3 +42,5 @@ images/*
 simuleval_link
 !*.csv
 !*.tsv
+
+*.pt
