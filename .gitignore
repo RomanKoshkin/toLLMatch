@@ -2,7 +2,6 @@
 .env
 */__pycache__/*
 scripts/experiments/*
-raw_datasets/*
 !raw_datasets/.keep
 !utils/.keep
 checkpoints/*
